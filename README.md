@@ -19,7 +19,7 @@ Welcome! In this repository you will find the code for the automation of the dow
 To work on this project, ensure you have the following installed:
 - Python 3.10 or above (3.12 recommended)
 - Git (for cloning the repository)
-- Chrome Driver
+- Chrome Driver (download [here](https://googlechromelabs.github.io/chrome-for-testing/))
 
 ## Setting Up the Environment
 
