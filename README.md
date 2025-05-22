@@ -1,7 +1,6 @@
 ﻿# Reate Download Automation
 
-<a href="https://www.linkedin.com/in/rafael-goto-6027a8206/"><img src="https://img.shields.io/badge/-Let's%20Connect-blue
-"></a>
+<a href="https://www.linkedin.com/in/rafael-goto-6027a8206/"><img src="https://img.shields.io/badge/-Let's%20Connect-blue"></a>
 
 Welcome! In this repository you will find the code for the automation of the download of petroleum well files using Selenium, streamlining data collection from the REATE repository of Brazilian terrestrial sedimentary basins containing over 40 terabytes of data. <br> 
 
