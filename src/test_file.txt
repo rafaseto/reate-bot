@@ -1,0 +1,3 @@
+../13-Bacia_do_Parecis_Alto_Xingu/POCO/Categoria-2/2-ANP-4-MT/Perfil Convencional/2-anp-4-mt_12_ubi.dlis
+../13-Bacia_do_Parecis_Alto_Xingu/POCO/Categoria-2/2-ANP-6-MT/Perfil Convencional/2-anp-6-mt_8a_cast.dlis
+../13-Bacia_do_Parecis_Alto_Xingu/POCO/Categoria-2/2-ANP-6-MT/Perfil Convencional/2-anp-6-mt_8f_cast.dlis
