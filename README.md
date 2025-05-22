@@ -12,6 +12,7 @@ Welcome! In this repository you will find the code for the automation of the dow
 - [Prerequisites](#prerequisites)
 - [Setting Up the Environment](#setting-up-the-environment)
 - [Installing Dependencies](#installing-dependencies)
+- [Your First Automation](#your-first-automation)
 
 ## Prerequisites
 
